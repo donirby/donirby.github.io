@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Don Irby, Horrible Cop, Launches Site"
+title: "Don L. Irby, P.E., Launches Site"
 date: 2014-04-30
 ---
 
